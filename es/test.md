@@ -2,8 +2,6 @@ primero
 
 segundo
 
-new
-
 tercera
 
 texto
